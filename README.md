@@ -11,12 +11,14 @@
     <a href="https://www.linkedin.com/in/antonioamparorossi/">
         <img align="left" width="100" height="100" src="https://img.icons8.com/carbon-copy/100/linkedin.png" alt="linkedin"/>
     </a>
-    <a href="https://discord.com/api/v9/users/@me/relationships">
-        <img width="100" height="100" src="https://img.icons8.com/carbon-copy/100/discord-square.png" alt="discord-square"/>
-    </a>
-
 </div>
 
+<br>
+<br>
+
+## Olá, Visitante!!
+
+Meu nome é Antonio, nasci em São Paulo em Abril de 2000 (Atualmente: 23 anos).
 <!--
 **amprossi/amprossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
