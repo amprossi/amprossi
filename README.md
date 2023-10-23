@@ -68,6 +68,6 @@ Meu nome é Antonio, nasci em São Paulo em Abril de 2000 (Atualmente: 23 anos).
 
 ##
 
-<img width="400px" src="https://i.ibb.co/fd6NSM2/bit2-removebg-preview.png">
+<img align="center" width="400px" src="https://i.ibb.co/fd6NSM2/bit2-removebg-preview.png">
 
 ##
