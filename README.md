@@ -34,6 +34,8 @@ Meu nome é Antonio, nasci em São Paulo em Abril de 2000 (Atualmente: 23 anos).
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
+<img width="300px" align="right" src="https://i.imgur.com/fe9HwSM.gif">
+
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -44,12 +46,19 @@ Meu nome é Antonio, nasci em São Paulo em Abril de 2000 (Atualmente: 23 anos).
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-
+</br>
+</br>
+<div display="inline-block" align="left">
+ <p>⚙️ Faço parte do Time de DevTools do MercadoLivre 💻</p>
+ <p>📚 Iniciei no desenvolvimento com Python e tenho expandido para Node e aprimorando meu conhecimento no FrontEnd (Node/React, HTML, CSS...) 🖊️</p>
+ <p>🍽️ Tenho planos de abrir dois IGs de recomendações e dicas, um de restaurantes e comidas em geral, junto com minha companheira e outro para iniciantes de Tecnologia com dicas e relatos de problemas que enfrentei que podem ajudar novos integrantes da área 📷</p>
+ <p>🎮 Na maior parte do meu tempo livre, gosto muito de jogar, desde jogos indies com amigos, jogos de história, RPG, de tudo. Mas tenho um fraco por souls like, e meu jogo favorito é o <strong> Elden Ring ⚔️</strong></p>
+</div>
 
 
 ##
 <p align="center">
-<a href="https://github.com/jeniblodev">
+<a href="https://github.com/amprossi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amprossi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amprossi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
