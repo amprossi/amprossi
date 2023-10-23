@@ -1,3 +1,5 @@
+<!-- Obrigado jeniblodev, pela ideia de Layout, ainda estou engatinhando no UX ;D  -->
+
 <img align="right" width="300px" style="margin-top:20px" src="https://i.ibb.co/g6xwd3s/oi-bit-removebg-preview.png">
 
 <br>
@@ -16,20 +18,39 @@
 <br>
 <br>
 
-## Olá, Visitante!!
+## Olá, Visitante!!!
 
-Meu nome é Antonio, nasci em São Paulo em Abril de 2000 (Atualmente: 23 anos).
-<!--
-**amprossi/amprossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Antonio, nasci em São Paulo em Abril de 2000 (Atualmente: 23 anos). Sou fanático pelo mundo da Tecnologia e 100% experimental desde pequeno. Tenho muitas paixões e hobbies, entre elas:
 
-Here are some ideas to get you started:
+- Cachorros e Gatos (Bichinhos em geral);
+- Filmes de Suspense e Terror;
+- Viajar (Trilhas, Praias, Cavernas, quanto mais aventureiro, melhor);
+- Jogos (Em especial Souls Like);
+- Passeios diferentes (Restaurantes temáticos ou passeios diferentes).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+##
+
+### 🖥️ Tecnologias e Ferramentas: 
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+
+
+##
+<p align="center">
+<a href="https://github.com/jeniblodev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amprossi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amprossi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
