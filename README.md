@@ -34,27 +34,27 @@ Meu nome é Antonio, nasci em São Paulo em Abril de 2000 (Atualmente: 23 anos).
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-<img width="300px" align="right" src="https://i.imgur.com/fe9HwSM.gif">
+<img width="200px" align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif">
 
 <div style="display: flex;">
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 </br>
 </br>
-<div display="inline-block" align="left">
- <p>⚙️ Faço parte do Time de DevTools do MercadoLivre 💻</p>
- <p>📚 Iniciei no desenvolvimento com Python e tenho expandido para Node e aprimorando meu conhecimento no FrontEnd (Node/React, HTML, CSS...) 🖊️</p>
- <p>🍽️ Tenho planos de abrir dois IGs de recomendações e dicas, um de restaurantes e comidas em geral, junto com minha companheira e outro para iniciantes de Tecnologia com dicas e relatos de problemas que enfrentei que podem ajudar novos integrantes da área 📷</p>
- <p>🎮 Na maior parte do meu tempo livre, gosto muito de jogar, desde jogos indies com amigos, jogos de história, RPG, de tudo. Mas tenho um fraco por souls like, e meu jogo favorito é o <strong> Elden Ring ⚔️</strong></p>
+<div display="inline-block" align="left" >
+    <p>⚙️ Faço parte do Time de DevTools do MercadoLivre 💻</p>
+    <p>📚 Iniciei no desenvolvimento com Python e tenho expandido para Node e aprimorando meu conhecimento no FrontEnd (Node/React, HTML, CSS...) 🖊️</p>
+    <p>🍽️ Tenho planos de abrir dois IGs de recomendações e dicas, um de restaurantes e comidas em geral, junto com minha companheira e outro para iniciantes de Tecnologia com dicas e relatos de problemas que enfrentei que podem ajudar novos integrantes da área 📷</p>
+    <p>🎮 Na maior parte do meu tempo livre, gosto muito de jogar, desde jogos indies com amigos, jogos de história, RPG, de tudo. Mas tenho um fraco por souls like, e meu jogo favorito é o <strong> Elden Ring ⚔️</strong></p>
 </div>
 
 
@@ -65,3 +65,9 @@ Meu nome é Antonio, nasci em São Paulo em Abril de 2000 (Atualmente: 23 anos).
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amprossi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+##
+
+<img width="400px" src="https://i.ibb.co/fd6NSM2/bit2-removebg-preview.png">
+
+##
