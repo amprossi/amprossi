@@ -59,15 +59,13 @@ Meu nome é Antonio, nasci em São Paulo em Abril de 2000 (Atualmente: 23 anos).
 
 
 ##
-<p align="center">
+<div align="center" >
+<p>
 <a href="https://github.com/amprossi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amprossi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amprossi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<div style="text-align:center;">
     <img width="400px" src="https://i.ibb.co/fd6NSM2/bit2-removebg-preview.png">
-</div>
 
 ##
