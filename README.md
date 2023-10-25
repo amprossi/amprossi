@@ -8,10 +8,10 @@
 <div display="inline-block">
     <h1 align="left">Antonio do Amparo Rossi</h1>
     <a href="https://www.instagram.com/a_r0ss1/">
-        <img width="100" height="100" src="https://img.icons8.com/carbon-copy/100/instagram-new--v1.png" alt="instagram-logo">
+        <img width="100" height="100" src="https://img.icons8.com/carbon-copy/100/FFFFFF/instagram-new--v1.png" alt="instagram-logo">
     </a>
     <a href="https://www.linkedin.com/in/antonioamparorossi/">
-        <img align="left" width="100" height="100" src="https://img.icons8.com/carbon-copy/100/linkedin.png" alt="linkedin"/>
+        <img align="left" width="100" height="100" src="https://img.icons8.com/carbon-copy/100/FFFFFF/linkedin.png" alt="linkedin"/>
     </a>
 </div>
 
@@ -26,7 +26,7 @@ Meu nome é Antonio, nasci em São Paulo em Abril de 2000 (Atualmente: 23 anos).
 - Filmes de Suspense e Terror;
 - Viajar (Trilhas, Praias, Cavernas, quanto mais aventureiro, melhor);
 - Jogos (Em especial Souls Like);
-- Passeios diferentes (Restaurantes temáticos ou passeios diferentes).
+- Experiências únicas (Restaurantes temáticos ou passeios diferentes sempre chamam minha atenção).
 
 <br>
 
