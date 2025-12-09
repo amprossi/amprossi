@@ -28,7 +28,7 @@ printf "\n"
 
 # -------- header line --------
 print_prompt_header() {
-  printf "${C_CYAN}amprossi${C_RESET} in ${C_YELLOW}amprossi${C_RESET} on ${C_MAGENTA} main${C_RESET} ${C_RED}[?]${C_RESET}\n"
+  printf "${C_CYAN}amprossi${C_RESET} in ${C_YELLOW}amprossi${C_RESET} on ${C_MAGENTA} main${C_RESET} ${C_RED}[!]${C_RESET}\n"
 }
 
 print_prompt_header
@@ -61,7 +61,7 @@ printf "${C_GREEN}➜ ${C_RESET}"
 sleep 0.12
 type_text "${C_WHITE}whoami${C_RESET}" 0.05
 sleep 0.18
-printf "${C_GRAY}Antonio Amparo Rossi — Full Stack Developer & DevOps${C_RESET}\n\n"
+printf "${C_GRAY}Antonio Amparo Rossi${C_RESET}\n\n"
 sleep 0.10
 
 # -------- BLOCK 2: focus --now --------
@@ -97,30 +97,30 @@ print_prompt_header
 printf "${C_GREEN}➜ ${C_RESET}"
 sleep 5.0
 
-# -------- BLOCK 5: git flow --------
-type_text "${C_WHITE}git add .${C_RESET}" 0.05
-printf "\n"
-sleep 0.10
+# # -------- BLOCK 5: git flow --------
+# type_text "${C_WHITE}git add .${C_RESET}" 0.05
+# printf "\n"
+# sleep 0.10
 
-print_prompt_header
-printf "${C_GREEN}➜ ${C_RESET}"
-type_text "${C_WHITE}git commit -m \"setting up profile\"${C_RESET}" 0.05
-sleep 0.30
-printf "${C_GRAY}[main abc1234] setting up profile${C_RESET}\n"
-printf "${C_GRAY} 1 file changed, 42 insertions(+)\n\n${C_RESET}"
-sleep 0.10
+# print_prompt_header
+# printf "${C_GREEN}➜ ${C_RESET}"
+# type_text "${C_WHITE}git commit -m \"setting up profile\"${C_RESET}" 0.05
+# sleep 0.30
+# printf "${C_GRAY}[main abc1234] setting up profile${C_RESET}\n"
+# printf "${C_GRAY} 1 file changed, 42 insertions(+)\n\n${C_RESET}"
+# sleep 0.10
 
-print_prompt_header
-printf "${C_GREEN}➜ ${C_RESET}"
-type_text "${C_WHITE}git push${C_RESET}" 0.05
-sleep 0.30
-printf "${C_GRAY}Pushing to github.com:amprossi/amprossi.git${C_RESET}\n"
-printf "${C_GRAY}   m4l1kth..abc1234  main -> main${C_RESET}\n\n"
-sleep 0.10
+# print_prompt_header
+# printf "${C_GREEN}➜ ${C_RESET}"
+# type_text "${C_WHITE}git push${C_RESET}" 0.05
+# sleep 0.30
+# printf "${C_GRAY}Pushing to github.com:amprossi/amprossi.git${C_RESET}\n"
+# printf "${C_GRAY}   m4l1kth..abc1234  main -> main${C_RESET}\n\n"
+# sleep 0.10
 
 # -------- BLOCK 6: clear --------
-print_prompt_header
-printf "${C_GREEN}➜ ${C_RESET}"
+# print_prompt_header
+# printf "${C_GREEN}➜ ${C_RESET}"
 type_text "${C_WHITE}clear${C_RESET}" 0.05
 clear
 sleep 0.10
