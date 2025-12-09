@@ -28,7 +28,7 @@ printf "\n"
 
 # -------- header line --------
 print_prompt_header() {
-  printf "${C_CYAN}amprossi${C_RESET} in ${C_YELLOW}amprossi${C_RESET} on ${C_MAGENTA} main${C_RESET} ${C_RED}[!]${C_RESET}\n"
+  printf "${C_CYAN}amprossi${C_RESET} in ${C_YELLOW}amprossi${C_RESET} on ${C_MAGENTA} main${C_RESET} ${C_RED}[!?]${C_RESET}\n"
 }
 
 print_prompt_header
