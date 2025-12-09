@@ -1,4 +1,5 @@
 <!-- Obrigado jeniblodev, pela ideia de Layout, ainda estou engatinhando no UX ;D  -->
+[🇧🇷 Português](./README-pt.md) | [🇺🇸 English](./README.md)
 
 <img align="right" width="300px" style="margin-top:20px" src="https://i.ibb.co/g6xwd3s/oi-bit-removebg-preview.png">
 
