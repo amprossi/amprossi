@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-<div align="center">
+<p align="center">
     <a href="mailto:antonioamparorossi@gmail.com" target="_blank" style="display:inline-block;">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
@@ -45,7 +45,7 @@
     <a href="https://instagram.com/amp.rossi" target="_blank" style="display:inline-block;">
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white/>
     </a>  
-</div>  
+</p>  
 
 
 
