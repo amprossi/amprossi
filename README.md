@@ -2,9 +2,9 @@
     <img src="https://github.com/amprossi/amprossi/blob/main/assets/profile.gif?raw=true" align="center" style="width: 100%" />
 </div>
 
-<p align="center" style="font-size: 48px; font-weight: 700">
-    Welcome, <span style="color:#4CE3D7">&lt;devs/&gt;</span>
-</p>
+<h1 align="center">
+  Welcome, <span style="color:#4CE3D7">&lt;devs /&gt;</span>
+</h1>
 
 <p align="center">I'm Antonio, a Full Stack Developer from São Paulo working with DevOps and gradually expanding into Cloud. Driven by curiosity and hands-on learning, I learn by building, breaking and improving.</p>
 
