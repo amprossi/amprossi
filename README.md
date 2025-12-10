@@ -12,16 +12,16 @@
 
 <img width="150px" align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif">
 
-<ul style="line-height:2.5">
+<ul>
     <li>
     🛠️ Currently working on restructuring this GitHub environment 
-    </li>
+    </li><br/>
     <li>
     💻 Right now, I'm learning Go and CI/CD pipelines
-    </li>
+    </li><br/>
     <li>
     ☁️ My next step is to start learning Cloud and working toward certifications
-    </li>
+    </li><br/>
     <li>
     🕹️ Exploring Game Development in my free time
     </li>
