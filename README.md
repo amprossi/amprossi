@@ -10,6 +10,8 @@
 
 <p align="center">I'm Antonio, a Full Stack Developer from São Paulo working with DevOps and gradually expanding into Cloud. Driven by curiosity and hands-on learning, I learn by building, breaking and improving.</p>
 
+<img width="150px" align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif">
+
 <ul style="line-height:2.5">
     <li>
     🛠️ Currently working on restructuring this GitHub environment 
@@ -24,6 +26,9 @@
     🕹️ Exploring Game Development in my free time
     </li>
 </ul>
+
+
+
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Teste;Teste2;Teste3)](https://git.io/typing-svg) -->
 
