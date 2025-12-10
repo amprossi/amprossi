@@ -28,14 +28,30 @@
     </li>
 </ul>
 
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+    <a href="antonioamparorossi@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://github.com/amprossi" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white/>
+    </a>
+    <a href="https://linkedin.com/in/antonioamparorossi" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/amp.rossi" target="_blank">
+        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white/>
+    </a>  
+</div>  
 
 
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Teste;Teste2;Teste3)](https://git.io/typing-svg) -->
 
 <!-- $$\color{cyan}\textrm{<devs/>}$$ -->
-
-</br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -91,21 +107,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/amprossi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/antonioamparorossi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/amp.rossi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 <br/>  
 
