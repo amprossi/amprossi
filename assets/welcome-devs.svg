@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .main, .devs {
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 100px;  font-weight: 700;
+    }
+    .main { fill: #ffffff; }
+    .devs { fill: #4CE3D7; }
+  </style>
+
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">
+    <tspan class="main">Welcome, </tspan>
+    <tspan class="devs">&lt;devs/&gt;</tspan>
+  </text>
+</svg>
