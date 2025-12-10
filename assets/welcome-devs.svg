@@ -1,8 +1,8 @@
-<svg viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
   <style>
     .main, .devs {
       font-family: 'Segoe UI', sans-serif;
-      font-size: 100px;  font-weight: 700;
+      font-size: 90px;  font-weight: 700;
     }
     .main { fill: #ffffff; }
     .devs { fill: #4CE3D7; }
