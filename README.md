@@ -33,10 +33,10 @@
 <br/>
 
 <p align="center">
-    <a href="mailto:antonioamparorossi@gmail.com" target="_blank" style="display:inline-block;"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-    <a href="https://github.com/amprossi" target="_blank" style="display:inline-block;"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white/></a>
-    <a href="https://linkedin.com/in/antonioamparorossi" target="_blank" style="display:inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://instagram.com/amp.rossi" target="_blank" style="display:inline-block;"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white/></a>  
+    <a href="mailto:antonioamparorossi@gmail.com" target="_blank" style="display:inline-block;"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height=25 /></a>
+    <a href="https://github.com/amprossi" target="_blank" style="display:inline-block;"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white height=25/></a>
+    <a href="https://linkedin.com/in/antonioamparorossi" target="_blank" style="display:inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25/></a>
+    <a href="https://instagram.com/amp.rossi" target="_blank" style="display:inline-block;"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white height=25/></a>  
 </p>  
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Teste;Teste2;Teste3)](https://git.io/typing-svg) -->
