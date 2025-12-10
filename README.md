@@ -1,24 +1,32 @@
 <div align="center">
-<img src="https://github.com/amprossi/amprossi/blob/main/assets/profile.gif?raw=true" align="center" style="width: 100%" />
-</div>  
-  
+    <img src="https://github.com/amprossi/amprossi/blob/main/assets/profile.gif?raw=true" align="center" style="width: 100%" />
+</div>
 
-### <div align="center">Olá, meu nome é Antonio, sou Desenvolvedor Full Stack</div>  
-  
+<p align="center" style="font-size: 48px; font-weight: 700">
+    Welcome, <span style="color:#4CE3D7">&lt;devs/&gt;</span>
+</p>
 
-- 💻 Atualmente estou trabalhando com a reestruturação desse GitHub  
-  
+<p align="center">I'm Antonio, a Full Stack Developer from São Paulo working with DevOps and gradually expanding into Cloud. Driven by curiosity and hands-on learning, I learn by building, breaking and improving.</p>
 
-- 🛠️ Me desenvolvendo em DevOps com base em CI/CD  
-  
+<ul style="line-height:2.5">
+    <li>
+    🛠️ Currently working on restructuring this GitHub environment 
+    </li>
+    <li>
+    💻 Right now, I'm learning Go and CI/CD pipelines
+    </li>
+    <li>
+    ☁️ My next step is to start learning Cloud and working toward certifications
+    </li>
+    <li>
+    🕹️ Exploring Game Development in my free time
+    </li>
+</ul>
 
-- ☁️ Minha próxima etapa é iniciar com estudos e certificações em Cloud  
-  
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Teste;Teste2;Teste3)](https://git.io/typing-svg) -->
 
-- ⚡ {FILL}  
-  
+</br>
 
-<br/>  
 
 
 ## My Skill Set  
@@ -95,11 +103,4 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amprossi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=amprossi)](https://github.com/ryo-ma/github-profile-trophy)
