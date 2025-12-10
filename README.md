@@ -8,8 +8,6 @@
     <img src="./assets/welcome-devs.svg">
 </p>
 
-
-
 <p align="center">I'm Antonio, a Full Stack Developer from São Paulo working with DevOps and gradually expanding into Cloud. Driven by curiosity and hands-on learning, I learn by building, breaking and improving.</p>
 
 <ul style="line-height:2.5">
