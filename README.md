@@ -1,6 +1,7 @@
-<p align="center">
-    <img src="https://github.com/amprossi/amprossi/blob/main/assets/profile.gif?raw=true" width="800" height="250"/>
-</p>
+<details align="center">
+    <summary><b>Show Terminal</b> 🖥️</summary>
+    <img src="./assets/profile.gif"/>
+</details>
 
 </br>
 
