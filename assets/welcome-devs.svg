@@ -6,19 +6,21 @@
     }
     .subtitle {
       font-family: 'Segoe UI', sans-serif;
-      font-size: 16px;
+      font-size: 20px;
     }
     .main { fill: #ffffff; }
     .devs { fill: #4CE3D7; }
     .subtitle { fill: #cfcfd6; }
   </style>
 
-  <text x="50%" y="80" text-anchor="middle">
-    <tspan class="main">Welcome, </tspan>
-    <tspan class="devs">&lt;devs/&gt;</tspan>
-  </text>
+  <g transform="translate(0, 35)">
+    <text x="50%" y="70" text-anchor="middle">
+      <tspan class="main">Welcome, </tspan>
+      <tspan class="devs">&lt;devs/&gt;</tspan>
+    </text>
 
-  <text x="50%" y="125" text-anchor="middle" class="subtitle">
-    I'm Antonio, a Full Stack Developer from São Paulo working with DevOps.
-  </text>
+    <text x="50%" y="120" text-anchor="middle" class="subtitle">
+      I'm Antonio, a Full Stack Developer from São Paulo working with DevOps.
+    </text>
+  </g>
 </svg>

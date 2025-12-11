@@ -8,29 +8,6 @@
     <img src="./assets/welcome-devs.svg">
 </p>
 
-<p align="center">I'm Antonio, a Full Stack Developer from São Paulo working with DevOps and gradually expanding into Cloud. Driven by curiosity and hands-on learning, I learn by building, breaking and improving.</p>
-
-<hr>
-<br/>
-
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Teste;Teste2;Teste3)](https://git.io/typing-svg) -->
-
-<!-- $$\color{cyan}\textrm{<devs/>}$$ -->
-
-<p align="center">
-    <img src="./assets/tech-arsenal.svg">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,django,flask,postgresql,mysql,prisma">
-    </a>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,git,linux,bash,powershell,docker,nginx,grafana">
-    </a>
-</p>
-
-<br/>  
-
-<hr>
-
 <img width="150px" align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif">
 
 <ul>
@@ -58,3 +35,24 @@
     <a href="https://linkedin.com/in/antonioamparorossi" target="_blank" style="display:inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25/></a>
     <a href="https://instagram.com/amp.rossi" target="_blank" style="display:inline-block;"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white height=25/></a>  
 </p>
+
+<hr>
+<br/>
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Teste;Teste2;Teste3)](https://git.io/typing-svg) -->
+
+<!-- $$\color{cyan}\textrm{<devs/>}$$ -->
+
+<p align="center">
+    <img src="./assets/tech-arsenal.svg">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,django,flask,postgresql,mysql,prisma">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,git,linux,bash,powershell,docker,nginx,grafana">
+    </a>
+</p>
+
+<br/>  
+
+<hr>
