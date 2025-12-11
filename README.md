@@ -1,3 +1,4 @@
+<!-- Terminal Gif -->
 <details align="center">
     <summary><b>Show Terminal</b> 🖥️</summary>
     <img src="./assets/profile.gif"/>
@@ -5,12 +6,15 @@
 
 </br>
 
+<!-- Welcome banner -->
 <p align="center">
     <img src="./assets/welcome-devs.svg">
 </p>
 
+<!-- Bonfire Gif -->
 <img width="150px" align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif">
 
+<!-- List -->
 <ul>
     <br/>
     <li>
@@ -28,14 +32,10 @@
 </ul>
 
 <br/>
-
 <hr>
 <br/>
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Teste;Teste2;Teste3)](https://git.io/typing-svg) -->
-
-<!-- $$\color{cyan}\textrm{<devs/>}$$ -->
-
+<!-- Tech Arsenal Icons -->
 <p align="center">
     <img src="./assets/tech-arsenal.svg">
     <a href="https://skillicons.dev">
@@ -47,12 +47,17 @@
 </p>
 
 <br/>  
-
 <hr>
 
+<!-- Contacts -->
 <p align="center">
     <a href="mailto:antonioamparorossi@gmail.com" target="_blank" style="display:inline-block;"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height=25 /></a>
     <a href="https://github.com/amprossi" target="_blank" style="display:inline-block;"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white height=25/></a>
     <a href="https://linkedin.com/in/antonioamparorossi" target="_blank" style="display:inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25/></a>
     <a href="https://instagram.com/amp.rossi" target="_blank" style="display:inline-block;"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white height=25/></a>  
 </p>
+
+<!-- <p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amprossi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amprossi&layout=compact&langs_count=8&theme=algolia"/>
+</p> -->
