@@ -1,48 +1,15 @@
-<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
-<style>
-  /* Estilo base do texto */
-  .title { font-family: 'Segoe UI', sans-serif; font-size: 32px; font-weight: 700; fill: #FFFFFF; }
-  .subtitle { font-family: 'Segoe UI', sans-serif; font-size: 24px; font-weight: 600; fill: #4CE3D7; }
-</style>
+<svg viewBox="0 0 1000 90" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .main, .tech {
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 90px;  font-weight: 700;
+    }
+    .main { fill: #ffffff; }
+    .tech { fill: #4CE3D7; }
+  </style>
 
-<text x="50" y="50" class="title">⚡ Tech Arsenal</text>
-
-<rect x="25" y="80" width="850" height="190" rx="10" fill="none" stroke="#4CE3D7" stroke-width="2.5" opacity="0.3"/>
-<rect x="25" y="80" width="850" height="190" rx="10" fill="#15171e" stroke="#4CE3D7" stroke-width="1.5"/>
-
-<text x="50" y="125" class="subtitle">Frontend</text>
-
-<image x="50" y="160" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" />
-<image x="120" y="160" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" />
-<image x="190" y="160" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" />
-<image x="260" y="160" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" />
-<image x="330" y="160" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" />
-<image x="400" y="160" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/nextjs.png" />
-<image x="470" y="160" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" />
-<rect x="25" y="290" width="850" height="200" rx="10" fill="none" stroke="#4CE3D7" stroke-width="2.5" opacity="0.3"/>
-<rect x="25" y="290" width="850" height="200" rx="10" fill="#15171e" stroke="#4CE3D7" stroke-width="1.5"/>
-
-<text x="50" y="335" class="subtitle">Backend</text>
-
-<image x="50" y="370" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" />
-<image x="120" y="370" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/python-original.svg" />
-<image x="190" y="370" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" />
-<image x="260" y="370" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/django-original.svg" />
-<image x="330" y="370" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/flask.png" />
-<image x="400" y="370" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" />
-<image x="470" y="370" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" />
-<image x="540" y="370" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/prisma.png" />
-<image x="610" y="370" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" />
-<rect x="25" y="500" width="850" height="190" rx="10" fill="none" stroke="#4CE3D7" stroke-width="2.5" opacity="0.3"/>
-<rect x="25" y="500" width="850" height="190" rx="10" fill="#15171e" stroke="#4CE3D7" stroke-width="1.5"/>
-
-<text x="50" y="545" class="subtitle">DevOps</text>
-
-<image x="50" y="580" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" />
-<image x="120" y="580" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" />
-<image x="190" y="580" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/grafana.png" />
-<image x="260" y="580" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
-<image x="330" y="580" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" />
-<image x="400" y="580" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/powershell.png" />
-<image x="470" y="580" width="60" height="60" href="https://profilinator.rishav.dev/skills-assets/kibana.png" />
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">
+    <tspan class="tech">Tech </tspan>
+    <tspan class="main">Arsenal</tspan>
+  </text>
 </svg>
