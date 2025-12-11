@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/amprossi/amprossi/blob/main/assets/profile.gif?raw=true" align="center" style="width: 100%" />
+    <img src="https://github.com/amprossi/amprossi/blob/main/assets/profile.gif?raw=true" width="600" height="250"/>
 </p>
 
 </br>
