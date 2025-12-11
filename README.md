@@ -45,17 +45,15 @@
 
 <!-- $$\color{cyan}\textrm{<devs/>}$$ -->
 
-<div>
-    <p align="center">
-        <img src="./assets/tech-arsenal.svg">
-    </p>
+<p align="center">
+    <img src="./assets/tech-arsenal.svg">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,django,flask,postgresql,mysql,prisma">
     </a>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,git,linux,bash,powershell,docker,nginx,grafana">
     </a>
-</div>
+</p>
 
 <br/>  
 
