@@ -1,15 +1,24 @@
-<svg viewBox="0 0 1000 90" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
   <style>
     .main, .devs {
       font-family: 'Segoe UI', sans-serif;
-      font-size: 90px;  font-weight: 700;
+      font-size: 90px; font-weight: 700;
+    }
+    .subtitle {
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 16px;
     }
     .main { fill: #ffffff; }
     .devs { fill: #4CE3D7; }
+    .subtitle { fill: #cfcfd6; }
   </style>
 
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">
+  <text x="50%" y="80" text-anchor="middle">
     <tspan class="main">Welcome, </tspan>
     <tspan class="devs">&lt;devs/&gt;</tspan>
+  </text>
+
+  <text x="50%" y="125" text-anchor="middle" class="subtitle">
+    I'm Antonio, a Full Stack Developer from São Paulo working with DevOps.
   </text>
 </svg>
